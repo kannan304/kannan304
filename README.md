@@ -14,6 +14,12 @@ I'm a passionate developer with a strong interest in web development.
 - 📫 How to reach me: kannan3042001@gmail.com
 - ⚡ Fun fact: I love solving puzzles and playing strategy games
 
+## GitHub Stats
+
+![Kannan J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannan304&show_icons=true&theme=default)
+
+
+
 ## Skills
 
 - Languages: ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,7 +28,7 @@ I'm a passionate developer with a strong interest in web development.
 
 ## Projects
 
-### [Sample Project](https://github.com/kannan304/portfolio1)
+### [Personal Portfolio](https://github.com/kannan304/portfolio1)
 - **Description:** An complete responsive Personal website 
 - **Technologies:** HTML, CSS, JavaScript, React, Tailwind CSS
 - **Link:** [live Demo](https://kannan-official.vercel.app/) | [Repository](https://github.com/kannan304/portfolio1)
@@ -31,8 +37,4 @@ I'm a passionate developer with a strong interest in web development.
 
 - Email: kannan3042001@gmail.com
 - LinkedIn: [Kannan J](https://www.linkedin.com/in/kannan-j-5b2341250)
-
-## GitHub Stats
-
-![Kannan J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannan304&show_icons=true&theme=default)
 
