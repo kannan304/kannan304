@@ -34,5 +34,5 @@ I'm a passionate developer with a strong interest in web development.
 
 ## GitHub Stats
 
-![Kannan J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Kannan J's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kannan304&show_icons=true&theme=radical)
 
